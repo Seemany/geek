@@ -11,3 +11,4 @@ def delenie(x, y):
 pervoe = int(input("Введите первое число: "))
 vtoroe = int(input("Введите второе число: "))
 delenie(pervoe, vtoroe)
+123
